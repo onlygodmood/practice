@@ -1,0 +1,26 @@
+{
+  "gateway stores": {
+    "strada": {
+      "employees": [
+        "amanda",
+        "favour",
+        "john"
+      ],
+      "working hours": {
+        "monday - saturday": "8am - 10pm",
+        "sunday": "12pm -8pm"
+      }
+    },
+    "All state supermarket": {
+      "employees": [
+        "jessica",
+        "david",
+        "dhonald"
+      ],
+      "working hours": {
+        "monday - saturday": "7am - 11pm",
+        "sundays": "11am - 8pm"
+      }
+    }
+  }
+}
